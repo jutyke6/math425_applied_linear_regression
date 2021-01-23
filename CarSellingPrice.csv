@@ -1,0 +1,86 @@
+﻿miles,price,year,location_state,location_city,trim,seller,search_engine
+134000,12750,2014,UT,Lehi,,dealer,
+80000,21000,2014,UT,Lehi,,dealer,
+100289,15990,2014,UT,St. George,EXL,dealer,ksl.com
+78747,16595,2014,UT,American Fork,EXL,dealer,ksl.com
+113402,10499,2014,UT,American Fork,LX,dealer,ksl.com
+90608,16495,2014,UT,American Fork,EXL,dealer,ksl.com
+165710,11960,2014,UT,South Jordan,EXL,dealer,ksl.com
+101000,13500,2014,UT,Orem,EX,private,ksl.com
+90912,17945,2014,UT,West Valley City,Touring,private,ksl.com
+52870,20821,2014,UT,Provo,Touring,dealer,ksl.com
+107212,13714,2014,UT,Clearfield,Elite,dealer,ksl.com
+117167,15100,2014,UT,Ogden,EXL,dealer,ksl.com
+90993,17999,2014,ID,Boise,Touring,dealer,ksl.com
+49000,15995,2014,UT,Salt Lake City,EXL,dealer,ksl.com
+72000,15995,2014,UT,West Valley City,Touring,dealer,ksl.com
+64000,15995,2014,UT,Salt Lake City,Touring,dealer,ksl.com
+85000,13995,2014,UT,West Valley City,EXL,dealer,ksl.com
+77100,16499,2014,UT,West Point,EXL,private,ksl.com
+153100,14999,2014,ID,Rexburg,EXL,dealer,ksl.com
+92232,13999,2014,UT,Murray,EXL,dealer,ksl.com
+74700,18295,2014,UT,Springville,Touring,dealer,ksl.com
+113559,15495,2014,UT,North Logan,EXL,dealer,ksl.com
+92000,11495,2014,CO,Denver,LX,dealer,cars.com
+81600,16987,2014,MT,Great Falls,EXL,dealer,cars.com
+80347,19990,2014,WY,Cheyenne,Touring,dealer,cars.com
+111285,14999,2014,CO,Denver,EXL,dealer,cars.com
+105165,15321,2014,CO,Littleton,EXL,dealer,cars.com
+94788,20995,2014,CO,Parker,Touring,dealer,cars.com
+13831,305999,2019,ID,Boise,Elite,dealer,ksl.com
+26978,26100,2018,ID,Boise,Touring,dealer,ksl.com
+129640,6995,2009,ID,Boise,EXL,dealer,ksl.com
+39106,21370,2015,UT,Ogden,EXL,dealer,ksl.com
+25647,36403,2019,UT,St. George,Elite,dealer,ksl.com
+38296,30200,2017,UT,St. George,Touring,dealer,ksl.com
+37908,33800,2018,UT,St. George,ELite,dealer,
+7043,35296,2020,UT,St. George,EXL,dealer,
+59620,24175,2019,UT,St. George,LX,dealer,
+66480,18900,2015,UT,Pleasant Grove,EXL,dealer,
+33063,31576,2019,UT,Murray,EXL,dealer,
+32000,25500,2018,UT,Herriman,Touring,dealer,
+28978,23499,2017,UT,American Fork,EXL,dealer,
+109283,12900,2012,UT,Pleasant Grove,EXL,dealer,
+81503,20095,2015,UT,American Fork,Touring,dealer,
+27629,24995,2017,UT,Draper,EXL,dealer,
+23525,27696,2019,UT,Salt Lake City,EX,dealer,
+72005,17499,2015,UT,American Fork,EXL,dealer,
+7,38196,2021,UT,Orem,EXL,dealer,
+0,49390,2022,UT,Bountiful,,dealer,
+0,39830,2022,UT,Bountiful,,dealer,
+8221,28799,2018,UT,Draper,Elite,dealer,
+7,37828,2021,UT,Orem,EXL,dealer,
+1,38196,2021,UT,Salt Lake City,EXL,dealer,
+22084,31365,2019,UT,Draper,EXL,dealer,
+31317,26999,2018,UT,Draper,EXL,dealer,
+25,39580,2021,UT,Logan,EXL,dealer,
+156468,4981,2010,UT,Pleasant Grove,EX,dealer,
+139162,9884,2011,UT,Pleasant Grove,EXL,dealer,
+155672,5993,2010,UT,Pleasant Grove,Touring,dealer,
+141827,8500,2010,UT,Alpine,EXL,,
+45982,20460,2015,UT,Sunset,EXL,dealer,
+89991,17960,2016,UT,Sunset,EXL,dealer,
+131345,12995,2015,UT,Orem,EX,dealer,
+143363,6495,2010,UT,Ogden,EXL,dealer,
+23111,31924,2017,UT,Price,Touring,dealer,
+115101,7615,2010,UT,Sandy,LX,dealer,
+72005,17499,2015,UT,American Fork,EXL,dealer,
+2768,42925,2020,UT,Sandy,Elite,dealer,
+157620,12995,2013,NV,Las Vegas,Touring,dealer,
+81503,20095,2015,UT,American Fork,Touring,dealer,
+99729,15999,2013,UT,American Fork,Touring,dealer,
+131212,11995,2012,ID,Preston,,dealer,
+111898,18995,2015,UT,Tremonton,Touring,dealer,
+3,42895,2021,UT,Riverdale,Touring,dealer,
+113383,11389,2012,UT,Draper,EXL,dealer,
+55620,17490,2016,UT,Draper,LX,dealer,
+100289,15990,2014,UT,St. George,EXL,dealer,
+115582,12500,2013,UT,Sandy,EXL,dealer,
+115101,7615,2010,UT,Sandy,LX,dealer,
+59179,29411,2018,UT,Salt Lake City,Elite,dealer,
+39106,21370,2015,UT,Ogden,EXL,dealer,
+230000,8793,2011,UT,Provo,Touring,,
+198000,7616,2010,UT,Provo,Touring,,
+117867,10400,2011,UT,Centerville,EXL,,
+161916,9495,2011,UT,St. George,EXL,,
+37428,18995,2016,UT,Lehi,SE,dealer,
